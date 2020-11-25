@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_menu"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/qc_menu"
+        android:icon="@drawable/ic_qc"
+        android:title="@string/Kontrol_menu" />
+
+    <item
+        android:id="@+id/trasaction_menu"
+        android:title="@string/penjualan"
+        android:icon="@drawable/ic_order" />
+
+    <item
+        android:id="@+id/competitor_menu"
+        android:title="@string/kompetitor"
+        android:icon="@drawable/ic_kompetitor" />
+</menu>

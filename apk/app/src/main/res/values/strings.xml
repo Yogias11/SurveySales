@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sales</string>
+
+    <string name="home">Home</string>
+    <string name="Kontrol_menu">Kontrol Produk</string>
+    <string name="kompetitor">Aktivitas Kompetitor</string>
+    <string name="penjualan">Penjualan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
